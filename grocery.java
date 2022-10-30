@@ -1,0 +1,4 @@
+rice 
+dall 
+oil
+
