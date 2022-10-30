@@ -1,0 +1,4 @@
+ mobiles
+ laptops
+ tv
+ fridges
